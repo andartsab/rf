@@ -1,0 +1,169 @@
+body {
+	height: 100%;
+	width: 100%;
+	background: #dec49e;
+}
+.logoblock {
+	height: 400px;
+	width: 95%;
+	background: #DADADA;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(rflogo.png);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	border-radius: 20px;
+	border: solid black 5px;
+	transition: 0.5s;
+}
+.logoblock:hover{
+	height: 425px;
+	width: 98%;
+	background: #DADADA;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(rflogo.png);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	border-radius: 22px;
+	border: solid black 7px;
+}
+.textblock{
+	margin-right: auto;
+	margin-left: auto;
+	width: 98%;
+	height: 200px;
+	border-radius: 20px;
+	border: solid black 5px;
+	margin-top: 25px;
+	background: #DADADA;
+}
+.text {
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 40px;
+	text-align: center;
+}
+.modmain {
+	height: 300px;
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	display: flex;
+	margin-top: 200px;
+}
+.modblock {
+	height: 300px;
+	width: 100%;
+	background-size: 100% 100%;
+	border-radius: 20px;
+	border: solid black 5px;
+	transition: 0.5s;
+}
+.modblock:hover {
+	height: 320px;
+	width: 102%;
+	background-size: 100% 100%;
+	border-radius: 20px;
+	border: solid black 5px;
+}
+.modblockf {
+	height: 300px;
+	width: 70%;
+	background-size: 100% 100%;
+	border-radius: 20px;
+	border: solid black 5px;
+	transition: 0.5s;
+}
+.modblockf:hover {
+	height: 320px;
+	width: 72%;
+	background-size: 100% 100%;
+	border-radius: 20px;
+	border: solid black 5px;
+}
+.wheelblock {
+	height: 600px;
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 200px;
+	background-size: cover;
+	background-image: url(str.jpg);	
+	border-radius: 20px;
+	border: solid black 5px;
+	transition: 0.5s;
+}
+.wheelblock:hover {
+	height: 650px;
+	width: 95%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 200px;
+	background-size: cover;
+	background-image: url(str.jpg);	
+	border-radius: 20px;
+	border: solid black 5px;
+}
+.carblock {
+	height: 600px;
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 200px;
+	display: flex;
+}
+.acarblock {
+	height: 600px;
+	width: 30%;
+	border-radius: 20px;
+	border: solid black 5px;
+	background: url(956.jpg);
+	background-size: cover; 
+	transition: 0.5s;
+}
+.acarblock:hover {
+	height: 650px;
+	width: 33%;
+	border-radius: 20px;
+	border: solid black 5px;
+	background: url(956.jpg);
+	background-size: cover; 
+}
+.bcarblock {
+	height: 600px;
+	width: 30%;
+	border-radius: 20px;
+	border: solid black 5px;
+	background: url(rsspyder.jpg);
+	background-size: cover; 
+	transition: 0.5s;
+}
+.bcarblock:hover {
+	height: 650px;
+	width: 33%;
+	border-radius: 20px;
+	border: solid black 5px;
+	background: url(rsspyder.jpg);
+	background-size: cover; 
+}
+.ccarblock {
+	height: 600px;
+	width: 30%;
+	border-radius: 20px;
+	border: solid black 5px;
+	background: url(s1.jpg);
+	background-size: cover;
+	transition: 0.5s;	
+}
+.ccarblock:hover {
+	height: 650px;
+	width: 33%;
+	border-radius: 20px;
+	border: solid black 5px;
+	background: url(s1.jpg);
+	background-size: cover;	
+}
+.gap{
+	width: 5px;
+}
